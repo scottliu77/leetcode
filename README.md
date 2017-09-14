@@ -1,8 +1,15 @@
 # Leetcode Solutions
 
 
-## Array
+## Arrays and Strings
+001. Two Sum ([python](/python-leetcode/001-two-sum.py))
 
+
+
+## Queues
+
+
+## Stacks
 
 
 ## Linked Lists
@@ -14,6 +21,13 @@
 ## Trees
 
 
+## Heaps
+
 ## Dynamic Programming
 
 
+## Bit Manipulation
+
+
+
+## Design
