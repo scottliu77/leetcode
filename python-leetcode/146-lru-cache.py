@@ -38,7 +38,7 @@ class LRUCache(object):
         :type capacity: int
         """
         self.capacity = capacity
-        self.d = dict()
+        self.d = {}
         self.head = Node(0, 0)
         self.tail = Node(0, 0)
         self.head.next = self.tail

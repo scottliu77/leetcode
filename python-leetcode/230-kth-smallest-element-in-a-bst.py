@@ -39,7 +39,6 @@ class Solution(object):
         """
         count_root = self._buildTree(root)
         self._updateCounts(count_root)
-        #return count_root.right.count
         return self._helper(count_root, k)
         
         
