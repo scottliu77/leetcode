@@ -19,6 +19,7 @@ class Solution(object):
         """
         :type intervals: List[Interval]
         :rtype: List[Interval]
+        O(nlgn) run time, bottleneck is sorting
         """
         ans = []
         for interval in sorted(intervals, key = lambda x: x.start):

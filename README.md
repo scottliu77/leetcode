@@ -5,8 +5,10 @@
 001. Two Sum ([Python](/python-leetcode/001-two-sum.py))
 003. Longest Substring Without Repeating Characters ([Python](/python-leetcode/003-longest-substring-without-repeating-characters.py))
 032. Longest Valid Parentheses ([Python](/python-leetcode/032-longest-valid-parentheses.py))
+048. Rotate Matrix ([Python](/python-leetcode/048-rotate-matrix.py))
 051. N Queens ([Python](/python-leetcode/051-n-queens.py))
 054. Spiral Matrix ([Python](/python-leetcode/054-spiral-matrix.py))
+079. Word Search ([Python](/python-leetcode/079-word-search.py))
 108. Convert Sorted Array to Binary Search Tree ([Python](/python-leetcode/108-convert-sorted-array-to-binary-search-tree.py))
 139. Word Break ([Python](/python-leetcode/139-word-break.py))
 238. Product of Array Except Self ([Python](/python-leetcode/238-product-of-array-except-self.py))
@@ -19,6 +21,7 @@
 433. Minimum Genetic Mutation ([Python](/python-leetcode/433-minimum-genetic-mutation.py))
 455. Assign Cookies ([Python](/python-leetcode/455-assign-cookies.py))
 459. Repeated Substring Pattern ([Python](/python-leetcode/459-repeated-substring-pattern.py))
+463. Island Perimeter ([Python](/python-leetcode/463-island-perimeter.py))
 475. Heaters ([Python](/python-leetcode/475-heaters.py))
 494. Target Sum ([Python](/python-leetcode/494-target-sum.py))
 549. Minimum Time Difference ([Python](/python-leetcode/539-minimum-time-difference.py))
@@ -66,6 +69,9 @@
 ## BFS
 433. Minimum Genetic Mutation ([Python](/python-leetcode/433-minimum-genetic-mutation.py))
 
+## DFS
+079. Word Search ([Python](/python-leetcode/079-word-search.py))
+
 
 ## Binary Search
 33. Search in Rotated Sorted Array ([Python](/python-leetcode/33-search-in-rotated-sorted-array.py))
@@ -108,14 +114,18 @@
 632. Smallest Range ([Python](/python-leetcode/632-smallest-range.py))
 
 ## Recursion
+017. Letter Combinations of a Phone Number ([Python](/python-leetcode/017-letter-combinations-of-a-phone-number.py))
 102. Binary Tree Level Order Traversal ([Python](/python-leetcode/102-binary-tree-level-order-traversal.py))
 257. Binary Tree Paths ([Python](/python-leetcode/257-binary-tree-paths.py))
 326. Power of Three ([Python](/python-leetcode/326-power-of-three.py))
 
 ## Backtracking
+039. Combination Sum ([Python](/python-leetcode/039-combination-sum.py))
 046. Permutations ([Python](/python-leetcode/046-permutations.py))
 051. N Queens ([Python](/python-leetcode/051-n-queens.py))
 078. Subsets ([Python](/python-leetcode/078-subsets.py))
+079. Word Search ([Python](/python-leetcode/079-word-search.py))
+
 
 ## Greedy
 455. Assign Cookies ([Python](/python-leetcode/455-assign-cookies.py))
@@ -133,6 +143,7 @@
 078. Subsets ([Python](/python-leetcode/078-subsets.py))
 
 ## Math and Geomtry
+048. Rotate Matrix ([Python](/python-leetcode/048-rotate-matrix.py))
 149. Max Points on a Line ([Python](/python-leetcode/149-max-points-on-a-line.py))
 172. Factorial Trailing Zeroes ([Python](/python-leetcode/172-factorial-trailing-zeroes.py))
 263. Ugly Number ([Python](python-leetcode/263-ugly-number.py))
