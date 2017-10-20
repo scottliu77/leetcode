@@ -24,8 +24,6 @@ class Solution(object):
         return self.quickselect(nums, 0, len(nums) - 1, len(nums) - k)
     
     def quickselect(self, nums, left, right, k):
-        if left >= right:
-            return nums[left]
         pivot = random.randint(left, right)
         mid = nums[pivot]
         nums[pivot], nums[right] = nums[right], nums[pivot]
