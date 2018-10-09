@@ -29,7 +29,7 @@ class Solution(object):
         dp = [False] * len(s)
         for i in xrange(len(s)):
             for w in wordDict:
-                if w == s[i-len(w)+1:i+1] and (dp[i-len(w)] or i-len(w) == -1):
+                if w == s[i - len(w) + 1:i + 1] and (dp[i - len(w)] or i - len(w) == -1):
                     dp[i] = True
                     
         return dp[-1]
